@@ -188,7 +188,7 @@ public abstract class AbstractLesson extends Screen implements Comparable<Object
         return getLessonTracker(s, this).getCompleted();
     }
 
-    /**
+    /****
      * {@inheritDoc}
      * <p>
      * Description of the Method
