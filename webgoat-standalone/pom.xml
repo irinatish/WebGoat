@@ -23,7 +23,7 @@
             <version>${project.version}</version>
         </dependency>
 
-        <!--************* Tomcat dependencies **************-->
+        <!--************* Tomcat dependencies ****************-->
         <dependency>
             <groupId>org.apache.tomcat.embed</groupId>
             <artifactId>tomcat-embed-core</artifactId>
