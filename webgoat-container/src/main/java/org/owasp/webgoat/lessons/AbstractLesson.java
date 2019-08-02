@@ -37,7 +37,7 @@ import java.util.Map;
 
 import static java.lang.Math.abs;
 
-/*****
+/******
  * *********************************************************************************************************
  * <p>
  * This file is part of WebGoat, an Open Web Application Security Project utility. For details,
